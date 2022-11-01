@@ -20,7 +20,6 @@ Using the appropriate Time Series Model for forecasting the sales of the store
            
            -> ARIMA : It performs well in this case.However as far i understood Holt - Winter is the special case of ARIMA(Auto-Regressive Integrated Moving Average).
            
-    3) Conclusion:
-    
-    Holt Winter Exponential Smoothing gives the best accurate result and it forecast good in this data.
+   3) Conclusion:
+              Holt Winter Exponential Smoothing gives the best accurate result and it forecast good in this data.
 
